@@ -1,6 +1,10 @@
+// add an input to change the amount of cards shown.
+// add an api call after scrolling to show some of the items first then the
+// rest on scroll
+
 const poke_container = document.getElementById('poke-container')
 
-const pokemon_count = 110
+const pokemon_count = 200
 const colors = {
   fire: '#fddfdf',
   grass: '#defde0',
